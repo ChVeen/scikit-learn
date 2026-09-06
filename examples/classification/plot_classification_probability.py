@@ -20,7 +20,6 @@ markers show the test data and are colored by their true label.
 # Authors: The scikit-learn developers
 # SPDX-License-Identifier: BSD-3-Clause
 
-# %%
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 import numpy as np
